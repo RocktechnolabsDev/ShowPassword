@@ -1,0 +1,28 @@
+{
+    "name": "rocktechnolabsdev/showpassword",
+    "descriptiosign": "Show password functionality covered on Checkout signin form",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+        {
+            "email": "utsav@rocktechnolabs.com",
+            "name": "Rock Technolabs Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~5.5.0|~5.6.0|~7.0.0|7.1.*|7.2.*|7.3.*|7.4.*|8.1.*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "RocktechnolabsDev\\ShowPassword\\": ""
+        }
+    }
+}
