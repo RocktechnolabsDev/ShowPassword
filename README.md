@@ -1,4 +1,4 @@
-# How to Show password on checkout page signin form in Magento 2 ?
+# How to Show Password on checkout page signin form in Magento 2 ?
 Using this module show password functionality get started working on checkout signin form as well.
 
 ## How to install this extension?
